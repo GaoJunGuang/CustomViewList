@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01优酷菜单/01优酷菜单.iml" filepath="$PROJECT_DIR$/01优酷菜单/01优酷菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02广告轮播效果/02广告轮播效果.iml" filepath="$PROJECT_DIR$/02广告轮播效果/02广告轮播效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03下拉框/03下拉框.iml" filepath="$PROJECT_DIR$/03下拉框/03下拉框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04自定义toggle开关/04自定义toggle开关.iml" filepath="$PROJECT_DIR$/04自定义toggle开关/04自定义toggle开关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05自定义属性的使用/05自定义属性的使用.iml" filepath="$PROJECT_DIR$/05自定义属性的使用/05自定义属性的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06模仿viewpager/06模仿viewpager.iml" filepath="$PROJECT_DIR$/06模仿viewpager/06模仿viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07快速索引/07快速索引.iml" filepath="$PROJECT_DIR$/07快速索引/07快速索引.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08仿侧滑菜单/08仿侧滑菜单.iml" filepath="$PROJECT_DIR$/08仿侧滑菜单/08仿侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10科技效果/10科技效果.iml" filepath="$PROJECT_DIR$/10科技效果/10科技效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomViewList.iml" filepath="$PROJECT_DIR$/CustomViewList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyScrollView/MyScrollView.iml" filepath="$PROJECT_DIR$/MyScrollView/MyScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleImageViewDemo/circleImageViewDemo.iml" filepath="$PROJECT_DIR$/circleImageViewDemo/circleImageViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custombutton/custombutton.iml" filepath="$PROJECT_DIR$/custombutton/custombutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/群英传自定义view/群英传自定义view.iml" filepath="$PROJECT_DIR$/群英传自定义view/群英传自定义view.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+include ':app', ':01优酷菜单', ':02广告轮播效果', ':03下拉框', ':04自定义toggle开关', ':customview', ':custombutton', ':05自定义属性的使用', ':群英传自定义view', ':MyScrollView', ':06模仿viewpager', ':07快速索引', ':08仿侧滑菜单', ':10科技效果'
+include ':circleImageViewDemo'

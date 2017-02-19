@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gjg.learn.quicklyindex.MainActivity">
+
+    <ListView
+        android:id="@+id/lv_person"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tv_word"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="A"
+        android:visibility="gone"
+        android:textSize="50sp" />
+
+    <com.gjg.learn.quicklyindex.IndexView
+        android:id="@+id/iv_words"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#aaff0000" />
+</RelativeLayout>

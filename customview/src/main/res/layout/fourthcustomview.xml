@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/ll">
+    <com.gjg.learn.customviewdemo.MyFlowLayout
+        android:id="@+id/myFlowLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!--<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:background="@drawable/tag_bg"
+            android:text="清纯"/>-->
+
+    </com.gjg.learn.customviewdemo.MyFlowLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:src="@drawable/meinv3"/>
+
+
+</LinearLayout>

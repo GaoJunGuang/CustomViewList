@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="cp_name" format="string"/>
+        <attr name="cp_value" format="float"/>
+        <attr name="cp_color" format="color"/>
+        <attr name="cp_textsize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="TopBarLayout">
+        <attr name="centerTitle" format="string" />
+        <attr name="centerTitleTextSize" format="dimension" />
+        <attr name="centerTitleTextColor" format="color" />
+        <attr name="leftTextColor" format="color" />
+        <attr name="leftBackground" format="reference|color" />
+        <attr name="leftText" format="string" />
+        <attr name="rightTextColor" format="color" />
+        <attr name="rightBackground" format="reference|color" />
+        <attr name="rightText" format="string" />
+    </declare-styleable>
+
+</resources>

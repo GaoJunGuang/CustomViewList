@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+
+    <com.gjg.learn.customviewdemo.CustomImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        app:image1="@mipmap/ic_launcher"
+        app:imageScaleType1="center"
+        app:titleText1="hello Android!"
+        app:titleTextColor1="#ff0000"
+        app:titleTextSize1="30sp"/>
+
+    <com.gjg.learn.customviewdemo.CustomImageView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        app:image1="@mipmap/ic_launcher"
+        app:imageScaleType1="center"
+        app:titleText1="hello welcome world"
+        app:titleTextColor1="#00ff00"
+        app:titleTextSize1="20sp"/>
+
+    <com.gjg.learn.customviewdemo.CustomImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        app:image1="@drawable/meinv"
+        app:imageScaleType1="fillXY"
+        app:titleText1="this is beautiful gril"
+        app:titleTextColor1="#210ff0"
+        app:titleTextSize1="25sp"/>
+
+
+
+</LinearLayout>

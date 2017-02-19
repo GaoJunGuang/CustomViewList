@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01优酷菜单" />
+            <option value="$PROJECT_DIR$/02广告轮播效果" />
+            <option value="$PROJECT_DIR$/03下拉框" />
+            <option value="$PROJECT_DIR$/04自定义toggle开关" />
+            <option value="$PROJECT_DIR$/05自定义属性的使用" />
+            <option value="$PROJECT_DIR$/06模仿viewpager" />
+            <option value="$PROJECT_DIR$/07快速索引" />
+            <option value="$PROJECT_DIR$/08仿侧滑菜单" />
+            <option value="$PROJECT_DIR$/10科技效果" />
+            <option value="$PROJECT_DIR$/MyScrollView" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/circleImageViewDemo" />
+            <option value="$PROJECT_DIR$/custombutton" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/群英传自定义view" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

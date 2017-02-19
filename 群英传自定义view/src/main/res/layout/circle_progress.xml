@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.gjg.learn.qyzview.CircleProgressView
+        android:id="@+id/circle"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_margin="20dp"
+        android:padding="5dp"
+        android:background="#33333333"
+        app:cp_name="小米手机"
+        app:cp_color="#4368e2"
+        app:cp_textsize="35sp"
+        app:cp_value="72.4"/>
+
+    <!--<com.gjg.learn.qyzview.CircleProgressView-->
+        <!--android:id="@+id/circle"-->
+        <!--android:layout_width="500dp"-->
+        <!--android:layout_height="500dp"-->
+       <!--/>-->
+
+
+</LinearLayout>

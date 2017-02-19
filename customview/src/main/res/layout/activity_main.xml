@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.gjg.learn.customviewdemo.MainActivity">
+
+    <Button
+        android:id="@+id/bt_firstcustomview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textSize="22sp"
+        android:text="First Custom View" />
+
+    <Button
+        android:id="@+id/bt_secondcustomview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAllCaps="false"
+        android:textSize="22sp"
+        android:text="Second Custom View" />
+    <Button
+        android:id="@+id/bt_thirdcustomview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAllCaps="false"
+        android:textSize="22sp"
+        android:text="Third Custom View" />
+
+    <Button
+    android:id="@+id/bt_fourthcustomview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:textAllCaps="false"
+    android:textSize="22sp"
+    android:text="Fourth Custom View" />
+
+    <Button
+        android:id="@+id/bt_fifthcustomview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAllCaps="false"
+        android:textSize="22sp"
+        android:text="Fifth Custom View" />
+
+</LinearLayout>
